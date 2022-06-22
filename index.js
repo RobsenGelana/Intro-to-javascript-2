@@ -15,6 +15,4 @@ if (opp == '+'){
 }else if (opp == '/'){
     let result = numOne / numTwo
     alert("result is " + result)
-}else{
-    alert("Invalid operator")
 }
